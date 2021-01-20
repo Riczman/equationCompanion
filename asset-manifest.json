@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/equationCompanion/static/css/main.b63d786b.chunk.css",
+    "main.css": "/equationCompanion/static/css/main.2a5a4745.chunk.css",
     "main.js": "/equationCompanion/static/js/main.63fd0438.chunk.js",
     "main.js.map": "/equationCompanion/static/js/main.63fd0438.chunk.js.map",
     "runtime-main.js": "/equationCompanion/static/js/runtime-main.4fcf266d.js",
@@ -8,13 +8,13 @@
     "static/js/2.29729615.chunk.js": "/equationCompanion/static/js/2.29729615.chunk.js",
     "static/js/2.29729615.chunk.js.map": "/equationCompanion/static/js/2.29729615.chunk.js.map",
     "index.html": "/equationCompanion/index.html",
-    "static/css/main.b63d786b.chunk.css.map": "/equationCompanion/static/css/main.b63d786b.chunk.css.map",
+    "static/css/main.2a5a4745.chunk.css.map": "/equationCompanion/static/css/main.2a5a4745.chunk.css.map",
     "static/js/2.29729615.chunk.js.LICENSE.txt": "/equationCompanion/static/js/2.29729615.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4fcf266d.js",
     "static/js/2.29729615.chunk.js",
-    "static/css/main.b63d786b.chunk.css",
+    "static/css/main.2a5a4745.chunk.css",
     "static/js/main.63fd0438.chunk.js"
   ]
 }
