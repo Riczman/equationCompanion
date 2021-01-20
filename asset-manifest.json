@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/equationCompanion/static/css/main.33a87308.chunk.css",
-    "main.js": "/equationCompanion/static/js/main.a6b85e06.chunk.js",
-    "main.js.map": "/equationCompanion/static/js/main.a6b85e06.chunk.js.map",
+    "main.css": "/equationCompanion/static/css/main.17ad22a3.chunk.css",
+    "main.js": "/equationCompanion/static/js/main.4538521f.chunk.js",
+    "main.js.map": "/equationCompanion/static/js/main.4538521f.chunk.js.map",
     "runtime-main.js": "/equationCompanion/static/js/runtime-main.4fcf266d.js",
     "runtime-main.js.map": "/equationCompanion/static/js/runtime-main.4fcf266d.js.map",
     "static/js/2.e3fcfa00.chunk.js": "/equationCompanion/static/js/2.e3fcfa00.chunk.js",
     "static/js/2.e3fcfa00.chunk.js.map": "/equationCompanion/static/js/2.e3fcfa00.chunk.js.map",
     "index.html": "/equationCompanion/index.html",
-    "static/css/main.33a87308.chunk.css.map": "/equationCompanion/static/css/main.33a87308.chunk.css.map",
+    "static/css/main.17ad22a3.chunk.css.map": "/equationCompanion/static/css/main.17ad22a3.chunk.css.map",
     "static/js/2.e3fcfa00.chunk.js.LICENSE.txt": "/equationCompanion/static/js/2.e3fcfa00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4fcf266d.js",
     "static/js/2.e3fcfa00.chunk.js",
-    "static/css/main.33a87308.chunk.css",
-    "static/js/main.a6b85e06.chunk.js"
+    "static/css/main.17ad22a3.chunk.css",
+    "static/js/main.4538521f.chunk.js"
   ]
 }
