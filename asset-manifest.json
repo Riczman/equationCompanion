@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/equationCompanion/static/css/main.babb9949.chunk.css",
-    "main.js": "/equationCompanion/static/js/main.d7bc7286.chunk.js",
-    "main.js.map": "/equationCompanion/static/js/main.d7bc7286.chunk.js.map",
+    "main.js": "/equationCompanion/static/js/main.392eb7f1.chunk.js",
+    "main.js.map": "/equationCompanion/static/js/main.392eb7f1.chunk.js.map",
     "runtime-main.js": "/equationCompanion/static/js/runtime-main.4fcf266d.js",
     "runtime-main.js.map": "/equationCompanion/static/js/runtime-main.4fcf266d.js.map",
     "static/js/2.1d5b7cb8.chunk.js": "/equationCompanion/static/js/2.1d5b7cb8.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4fcf266d.js",
     "static/js/2.1d5b7cb8.chunk.js",
     "static/css/main.babb9949.chunk.css",
-    "static/js/main.d7bc7286.chunk.js"
+    "static/js/main.392eb7f1.chunk.js"
   ]
 }
