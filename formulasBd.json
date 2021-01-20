@@ -5,15 +5,33 @@
                 "name": "Pythagorean theorem",
                 "formula": "a^2 + b^2",
                 "description": "hypotenuse - c^2"
+            },
+            {
+                "name": "Distance between 2 points",
+                "formula": "sqrt((xA - xB)^2 + (yA - yB)^2)",
+                "description": "distance between point A and B - d"
             }
         ]
     },
 
     "physicsFormulas": {
-
+        "formulas": [
+            {
+                "name": "Gravitational force",
+                "formula": "g*m",
+                "description": "force of gravity - Fg"
+            },
+            {
+                "name": "Work formula",
+                "formula": "F*d",
+                "description": "work done by force F on the distance d - W"
+            }
+        ]
     },
 
     "customFormulas": {
-
+        "formulas": [
+            
+        ]
     }
 }
